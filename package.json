@@ -1,0 +1,33 @@
+{
+  "name": "pariaturconsectetur",
+  "version": "1.0.0",
+  "description": "Easily check if a specified object is an ES6 Set",
+  "keywords": [
+    "set",
+    "est",
+    "eveniet",
+    "type checking",
+    "officiis",
+    "expedita",
+    "harmony"
+  ],
+  "license": "MIT",
+  "author": "BernitaMoen",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MathiasTorp/pariaturconsectetur.git"
+  },
+  "devDependencies": {
+    "ava": "^0.0.4"
+  },
+  "engines": {
+    "node": ">=0.12.0"
+  },
+  "bugs": {
+    "url": "https://github.com/MathiasTorp/pariaturconsectetur.git/issues"
+  },
+  "homepage": "https://github.com/MathiasTorp/pariaturconsectetur.git"
+}
